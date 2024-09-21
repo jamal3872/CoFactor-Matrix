@@ -1,6 +1,3 @@
-# COFACTOR
- Implementation of a C++ program to calculate the cofactor of a matrix.
-
  #include <iostream>
 using namespace std;
 int main() {
